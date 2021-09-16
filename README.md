@@ -1,2 +1,2 @@
 # Python-advanced
-repo with all of the tasks solved during the course "Python advanced"  at SoftUni
+This repo holds all of the tasks solved during the course "Python advanced"  at SoftUni, separated by themes.
